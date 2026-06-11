@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - charts/
+
+website:
+  title: "DSCI320"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Introduction
+      - href: finding-01.qmd
+        text: Finding 1 
+      # - href: finding-02.qmd
+      #   text: Finding 2
+      # - href: finding-03.qmd
+      #   text: Finding 3
+      # - href: finding-04.qmd
+      #   text: Finding 4
+      - href: dashboard.qmd
+        text: Explore
+
+format:
+  html:
+    theme: [default, styles.scss]
+    toc: false
+    include-in-header:
+      - text: |
+          <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+          <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+          <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>

@@ -1,0 +1,17 @@
+---
+title: "Dashboard"
+---
+
+<div id="chart" style="display: flex; justify-content: center;"></div>
+
+<script>
+  vegaEmbed('#chart', 'charts/view1.json', {
+    renderer: 'svg',
+    actions: false,
+  })
+</script>
+
+Explain the significance of the dashboard.\
+Then explain how to navigate through the linked views 
+
+

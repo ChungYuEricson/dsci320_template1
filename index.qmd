@@ -1,0 +1,28 @@
+---
+title: "Introduction"
+---
+
+Briefly explain project and reason why you pick this project
+
+## The Dataset
+
+Briefly explain the dataset and **critical attributes** that are highlighted in this analysis
+
+## Dataset Information
+
+**Dataset:** {remove the brackets and fill in}\
+**Source:** {remove the brackets and fill in}\
+**URL:** {remove the brackets and fill in}\
+**License:** {remove the brackets and fill in}\
+**Date Accessed:** {remove the brackets and fill in}\
+**Time Period:** {remove the brackets and fill in}
+
+| Attribute Name | Attribute Type | Data Semantics | Cardinality |
+|----------------|----------------|-------------------------|----------------|
+| Latitude | Quantitative (Sequential) | Spatial coordinate (°), range: \~–65.6 to 85.1 | 1,000 |
+| Longitude | Quantitative (Sequential) | Spatial coordinate (°), range: \~–179.9 to 179.9 | 1,000 |
+
+## Impact and Utility
+
+Briefly explain the **purpose** of the analysis.\
+Address the **targeted audience** and include **at least 3 story questions**.

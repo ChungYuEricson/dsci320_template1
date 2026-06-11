@@ -1,0 +1,15 @@
+---
+title: "Finding 1 Header"
+---
+
+<div id="chart" style="display: flex; justify-content: center;"></div>
+
+<script>
+  vegaEmbed('#chart', 'charts/placeHolder.json', {
+    renderer: 'svg',
+    actions: false,
+  })
+</script>
+
+Explain the significance of the chart.
+

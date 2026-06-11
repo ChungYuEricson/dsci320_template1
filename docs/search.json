@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "introduction",
+    "section": "",
+    "text": "This is intro\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Briefly explain project and reason why you pick this project"
+  },
+  {
+    "objectID": "finding-01.html",
+    "href": "finding-01.html",
+    "title": "Finding 1 Header",
+    "section": "",
+    "text": "Briefly explain the significance of the chart."
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "Explain the significance of the dashboard.\nThen explain how to navigate through the linked views"
+  },
+  {
+    "objectID": "index.html#the-dataset",
+    "href": "index.html#the-dataset",
+    "title": "Introduction",
+    "section": "The Dataset",
+    "text": "The Dataset\nBriefly explain the dataset and critical attributes that are highlighted in this analysis"
+  },
+  {
+    "objectID": "index.html#dataset-information",
+    "href": "index.html#dataset-information",
+    "title": "Introduction",
+    "section": "Dataset Information",
+    "text": "Dataset Information\nDataset: {remove the brackets and fill in}\nSource: {remove the brackets and fill in}\nURL: {remove the brackets and fill in}\nLicense: {remove the brackets and fill in}\nDate Accessed: {remove the brackets and fill in}\nTime Period: {remove the brackets and fill in}\n\n\n\n\n\n\n\n\n\nAttribute Name\nAttribute Type\nData Semantics\nCardinality\n\n\n\n\nLatitude\nQuantitative (Sequential)\nSpatial coordinate (°), range: ~–65.6 to 85.1\n1,000\n\n\nLongitude\nQuantitative (Sequential)\nSpatial coordinate (°), range: ~–179.9 to 179.9\n1,000"
+  },
+  {
+    "objectID": "index.html#impact-and-utility",
+    "href": "index.html#impact-and-utility",
+    "title": "Introduction",
+    "section": "Impact and Utility",
+    "text": "Impact and Utility\nBriefly explain the purpose of the analysis.\nAddress the targeted audience and include at least 3 story questions."
+  }
+]

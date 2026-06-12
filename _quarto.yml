@@ -20,6 +20,10 @@ website:
       #   text: Finding 4
       - href: dashboard.qmd
         text: Explore
+      - href: limitations.qmd
+        text: Limitations
+      - href: credits.qmd
+        text: Credits
 
 format:
   html:

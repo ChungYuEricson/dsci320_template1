@@ -25,7 +25,7 @@
     "href": "finding-01.html",
     "title": "Finding 1 Header",
     "section": "",
-    "text": "Briefly explain the significance of the chart."
+    "text": "Explain the significance of the chart."
   },
   {
     "objectID": "dashboard.html",
@@ -54,5 +54,12 @@
     "title": "Introduction",
     "section": "Impact and Utility",
     "text": "Impact and Utility\nBriefly explain the purpose of the analysis.\nAddress the targeted audience and include at least 3 story questions."
+  },
+  {
+    "objectID": "limitations.html",
+    "href": "limitations.html",
+    "title": "Limitations",
+    "section": "",
+    "text": "Address the limitations and trade-offs that were considered"
   }
 ]

@@ -2,16 +2,21 @@
 title: "Dashboard"
 ---
 
-<div id="chart" style="display: flex; justify-content: center;"></div>
 
 <script>
-  vegaEmbed('#chart', 'charts/view1.json', {
+   // TODO: Update the JSON file paths to match your exported Altair/Vega-Lite dashboard specifications
+  vegaEmbed('#chart3', './charts/scatter_placeholder.json', {
     renderer: 'svg',
     actions: false,
   })
 </script>
 
-Explain the significance of the dashboard.\
-Then explain how to navigate through the linked views 
+<div id="chart3"></div>
+
+<!-- TODO: Update the dashboard caption accordingly -->
+
+<!-- TODO: Explain the significance of the dashboard -->
+ 
+<!-- TODO: Explain the instructions of the dashboard -->
 
 

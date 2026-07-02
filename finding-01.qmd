@@ -1,15 +1,28 @@
 ---
-title: "Finding 1 Header"
+title: "TODO: Finding Title"
 ---
 
-<div id="chart" style="display: flex; justify-content: center;"></div>
+<!-- TODO: Copy and Paste this template for other findings -->
 
 <script>
-  vegaEmbed('#chart', 'charts/placeHolder.json', {
+  // TODO: Update the JSON file paths to match your exported Altair/Vega-Lite chart specifications
+  vegaEmbed('#chart1', './charts/placeholder_chart.json', {
+    renderer: 'svg',
+    actions: false,
+  })
+
+  vegaEmbed('#chart2', './charts/scatter_placeholder.json', {
     renderer: 'svg',
     actions: false,
   })
 </script>
 
-Explain the significance of the chart.
+ <!-- TODO: Update the figure caption accordingly -->
 
+<div id="chart1"></div>
+*Figure 1: *
+
+ <!-- TODO: Explain the significance of the plot -->
+
+<div id="chart2"></div>
+*Figure 2: *

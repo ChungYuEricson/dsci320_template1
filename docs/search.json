@@ -18,42 +18,61 @@
     "href": "index.html",
     "title": "Introduction",
     "section": "",
-    "text": "Briefly explain project and reason why you pick this project"
+    "text": "TODO: Briefly explain project and reason why you pick this project",
+    "crumbs": [
+      "Introduction"
+    ]
   },
   {
     "objectID": "finding-01.html",
     "href": "finding-01.html",
-    "title": "Finding 1 Header",
+    "title": "TODO: Finding Title",
     "section": "",
-    "text": "Explain the significance of the chart."
+    "text": "Figure 1: \n\n\n\n\nFigure 2:",
+    "crumbs": [
+      "Findings",
+      "{{Page 1 Title}}"
+    ]
   },
   {
     "objectID": "dashboard.html",
     "href": "dashboard.html",
     "title": "Dashboard",
     "section": "",
-    "text": "Explain the significance of the dashboard.\nThen explain how to navigate through the linked views"
+    "text": "Explain the significance of the dashboard.\nThen explain how to navigate through the linked views",
+    "crumbs": [
+      "{{Interactive Dashboard}}"
+    ]
   },
   {
     "objectID": "index.html#the-dataset",
     "href": "index.html#the-dataset",
     "title": "Introduction",
     "section": "The Dataset",
-    "text": "The Dataset\nBriefly explain the dataset and critical attributes that are highlighted in this analysis"
+    "text": "The Dataset\nTODO: Briefly explain the dataset and critical attributes that are highlighted in this analysis",
+    "crumbs": [
+      "Introduction"
+    ]
   },
   {
     "objectID": "index.html#dataset-information",
     "href": "index.html#dataset-information",
     "title": "Introduction",
     "section": "Dataset Information",
-    "text": "Dataset Information\nDataset: {remove the brackets and fill in}\nSource: {remove the brackets and fill in}\nURL: {remove the brackets and fill in}\nLicense: {remove the brackets and fill in}\nDate Accessed: {remove the brackets and fill in}\nTime Period: {remove the brackets and fill in}\n\n\n\n\n\n\n\n\n\nAttribute Name\nAttribute Type\nData Semantics\nCardinality\n\n\n\n\nLatitude\nQuantitative (Sequential)\nSpatial coordinate (°), range: ~–65.6 to 85.1\n1,000\n\n\nLongitude\nQuantitative (Sequential)\nSpatial coordinate (°), range: ~–179.9 to 179.9\n1,000"
+    "text": "Dataset Information",
+    "crumbs": [
+      "Introduction"
+    ]
   },
   {
     "objectID": "index.html#impact-and-utility",
     "href": "index.html#impact-and-utility",
     "title": "Introduction",
     "section": "Impact and Utility",
-    "text": "Impact and Utility\nBriefly explain the purpose of the analysis.\nAddress the targeted audience and include at least 3 story questions."
+    "text": "Impact and Utility",
+    "crumbs": [
+      "Introduction"
+    ]
   },
   {
     "objectID": "limitations.html",

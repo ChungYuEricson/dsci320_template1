@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "introduction.html",
-    "href": "introduction.html",
-    "title": "introduction",
-    "section": "",
-    "text": "This is intro\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Introduction",
@@ -21,27 +7,6 @@
     "text": "TODO: 2–3 sentences framing the “hook.” What does the raw/unfiltered data seem to say at first glance, and why is that first impression misleading or incomplete? This sets up the tension your scrollytelling piece will resolve.\nTODO: 2–3 sentences describing what dataset you’re using and what the reader will be walked through (e.g. “this project explores X to uncover Y, moving from static charts to an interactive scroll experience that reveals Z”).",
     "crumbs": [
       "Introduction"
-    ]
-  },
-  {
-    "objectID": "finding-01.html",
-    "href": "finding-01.html",
-    "title": "TODO: Finding Title",
-    "section": "",
-    "text": "Figure 1: TODO: Update the figure caption accordingly\nTODO: Explain the significance of the plot\n\n\n\nFigure 2:",
-    "crumbs": [
-      "Findings",
-      "{{Page 1 Title}}"
-    ]
-  },
-  {
-    "objectID": "dashboard.html",
-    "href": "dashboard.html",
-    "title": "Dashboard",
-    "section": "",
-    "text": "TODO: Update the dashboard caption accordingly\nTODO: Explain the significance of the dashboard\nTODO: Explain the instructions of the dashboard",
-    "crumbs": [
-      "{{Interactive Dashboard}}"
     ]
   },
   {
@@ -75,10 +40,34 @@
     ]
   },
   {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "TODO: Update the dashboard caption accordingly\nTODO: Explain the significance of the dashboard\nTODO: Explain the instructions of the dashboard",
+    "crumbs": [
+      "{{Interactive Dashboard}}"
+    ]
+  },
+  {
+    "objectID": "finding-01.html",
+    "href": "finding-01.html",
+    "title": "TODO: Finding Title",
+    "section": "",
+    "text": "Figure 1: TODO: Update the figure caption accordingly\nTODO: Explain the significance of the plot\n\n\n\nFigure 2: TODO: Update the figure caption accordingly",
+    "crumbs": [
+      "Findings",
+      "{{Page 1 Title}}"
+    ]
+  },
+  {
     "objectID": "limitations.html",
     "href": "limitations.html",
     "title": "Limitations",
     "section": "",
-    "text": "Address the limitations and trade-offs that were considered"
+    "text": "TODO: Address the limitations and trade-offs that were considered",
+    "crumbs": [
+      "{{Project Limitations}}"
+    ]
   }
 ]

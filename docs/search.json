@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Introduction",
     "section": "",
-    "text": "TODO: Briefly explain project and reason why you pick this project",
+    "text": "TODO: 2–3 sentences framing the “hook.” What does the raw/unfiltered data seem to say at first glance, and why is that first impression misleading or incomplete? This sets up the tension your scrollytelling piece will resolve.\nTODO: 2–3 sentences describing what dataset you’re using and what the reader will be walked through (e.g. “this project explores X to uncover Y, moving from static charts to an interactive scroll experience that reveals Z”).",
     "crumbs": [
       "Introduction"
     ]
@@ -28,7 +28,7 @@
     "href": "finding-01.html",
     "title": "TODO: Finding Title",
     "section": "",
-    "text": "Figure 1: \n\n\n\n\nFigure 2:",
+    "text": "Figure 1: TODO: Update the figure caption accordingly\nTODO: Explain the significance of the plot\n\n\n\nFigure 2:",
     "crumbs": [
       "Findings",
       "{{Page 1 Title}}"
@@ -39,7 +39,7 @@
     "href": "dashboard.html",
     "title": "Dashboard",
     "section": "",
-    "text": "Explain the significance of the dashboard.\nThen explain how to navigate through the linked views",
+    "text": "TODO: Update the dashboard caption accordingly\nTODO: Explain the significance of the dashboard\nTODO: Explain the instructions of the dashboard",
     "crumbs": [
       "{{Interactive Dashboard}}"
     ]
@@ -49,7 +49,7 @@
     "href": "index.html#the-dataset",
     "title": "Introduction",
     "section": "The Dataset",
-    "text": "The Dataset\nTODO: Briefly explain the dataset and critical attributes that are highlighted in this analysis",
+    "text": "The Dataset\nTODO: 1 short paragraph. Where did this data come from, what does it capture, and over what scope/time window?\nTODO: List out the 2–4 attributes that matter most to your story, in the same style as below. Group them by theme if it helps (e.g. “Spatial attributes” vs. “Engineered/derived attributes”).\nfield_name_1: What it measures and why it matters to the story.\nfield_name_2: What it measures and why it matters to the story.\nfield_name_3: What it measures and why it matters to the story.",
     "crumbs": [
       "Introduction"
     ]
@@ -59,7 +59,7 @@
     "href": "index.html#dataset-information",
     "title": "Introduction",
     "section": "Dataset Information",
-    "text": "Dataset Information",
+    "text": "Dataset Information\nDataset: TODO — dataset name\nSource: TODO — organization/provider\nURL: TODO — link to raw data\nLicense: TODO\nDate Accessed: TODO\nTime Period: TODO\nTODO: List out all attributes in the dataset\n\n\n\n\n\n\n\n\n\nAttribute Name\nAttribute Type\nData Semantics\nCardinality\n\n\n\n\nTODO\nQuantitative / Categorical (Nominal/Ordinal)\nTODO description\nTODO\n\n\nTODO\nQuantitative / Categorical (Nominal/Ordinal)\nTODO description\nTODO\n\n\nTODO\nQuantitative / Categorical (Nominal/Ordinal)\nTODO description\nTODO",
     "crumbs": [
       "Introduction"
     ]
@@ -69,7 +69,7 @@
     "href": "index.html#impact-and-utility",
     "title": "Introduction",
     "section": "Impact and Utility",
-    "text": "Impact and Utility",
+    "text": "Impact and Utility\nTODO: 1–2 sentences on who benefits from this analysis and why (e.g. planners, analysts, decision-makers in your domain).\nTo guide the reader through the data, this story addresses the following questions:\n\nTODO: Research Question 1\nTODO: 2–3 sentences previewing what section 1 (chart1) will reveal.\n\n\nTODO: Research Question 2\nTODO: 2–3 sentences previewing what section 2 (chart2) will reveal.",
     "crumbs": [
       "Introduction"
     ]

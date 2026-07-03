@@ -2,29 +2,55 @@
 title: "Introduction"
 ---
 
-<!-- TODO: Briefly explain project and reason why you pick this project -->
+TODO: 2–3 sentences framing the "hook." What does the raw/unfiltered data seem to say at first glance, and why is that first impression misleading or incomplete? This sets up the tension your scrollytelling piece will resolve.
+
+TODO: 2–3 sentences describing what dataset you're using and what the reader will be walked through (e.g. "this project explores X to uncover Y, moving from static charts to an interactive scroll experience that reveals Z").
 
 ## The Dataset
-<!-- 
-TODO: Briefly explain the dataset and **critical attributes** that are highlighted in this analysis -->
+
+TODO: 1 short paragraph. Where did this data come from, what does it capture, and over what scope/time window?
+
+TODO: List out the 2–4 attributes that matter most to your story, in the same style as below. Group them by theme if it helps (e.g. "Spatial attributes" vs. "Engineered/derived attributes").
+
+**field_name_1:** What it measures and why it matters to the story.
+
+**field_name_2:** What it measures and why it matters to the story.
+
+**field_name_3:** What it measures and why it matters to the story.
 
 ## Dataset Information
 
-<!-- * **Dataset:** # TODO: [Official Name of the Dataset]  
-* **Source:** # TODO: [Name of Institution/Organization]  
-* **URL:** [# TODO: [Link Text]](# TODO: [Insert URL])  
-* **License:** # TODO: [Data License Type, e.g., MIT, CC BY 4.0, Public Domain]  
-* **Date Accessed:** # TODO: [Date]  
-* **Time Period:** # TODO: [Timeframe covered by the data]
+**Dataset:** TODO — dataset name
+
+**Source:** TODO — organization/provider
+
+**URL:** TODO — link to raw data
+
+**License:** TODO
+
+**Date Accessed:** TODO
+
+**Time Period:** TODO
+
+TODO: List out all attributes in the dataset
 
 | Attribute Name | Attribute Type | Data Semantics | Cardinality |
 | :--- | :--- | :--- | :---: |
-| **# TODO: [column_name]** | # TODO: [Type (e.g., Categorical, Quantitative)] | # TODO: [Plain-English description and range/bounds] | # TODO: [Unique count] |
+| **TODO** | Quantitative / Categorical (Nominal/Ordinal) | TODO description | TODO |
+| **TODO** | Quantitative / Categorical (Nominal/Ordinal) | TODO description | TODO |
+| **TODO** | Quantitative / Categorical (Nominal/Ordinal) | TODO description | TODO |
 
---- -->
 
 ## Impact and Utility
 
-<!-- TODO:
-Briefly explain the **purpose** of the analysis.\
-Address the **targeted audience** and include **at least 3 story questions**. -->
+TODO: 1–2 sentences on who benefits from this analysis and why (e.g. planners, analysts, decision-makers in your domain).
+
+To guide the reader through the data, this story addresses the following questions:
+
+### TODO: Research Question 1
+
+TODO: 2–3 sentences previewing what section 1 (chart1) will reveal.
+
+### TODO: Research Question 2
+
+TODO: 2–3 sentences previewing what section 2 (chart2) will reveal.

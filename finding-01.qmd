@@ -17,12 +17,11 @@ title: "TODO: Finding Title"
   })
 </script>
 
- <!-- TODO: Update the figure caption accordingly -->
 
 <div id="chart1"></div>
-*Figure 1: *
+*Figure 1: TODO: Update the figure caption accordingly*
 
- <!-- TODO: Explain the significance of the plot -->
+ TODO: Explain the significance of the plot
 
 <div id="chart2"></div>
 *Figure 2: *

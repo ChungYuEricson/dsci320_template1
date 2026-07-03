@@ -24,4 +24,4 @@ title: "TODO: Finding Title"
  TODO: Explain the significance of the plot
 
 <div id="chart2"></div>
-*Figure 2: *
+*Figure 2: TODO: Update the figure caption accordingly*

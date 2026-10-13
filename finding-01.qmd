@@ -23,5 +23,10 @@ title: "TODO: Finding Title"
 
  TODO: Explain the significance of the plot
 
+
+## Dashboard title 
 <div id="chart2"></div>
-*Figure 2: TODO: Update the figure caption accordingly*
+
+TODO: Explain the significance of the dashboard
+ 
+TODO: Explain the instructions of the dashboard

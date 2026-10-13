@@ -27,8 +27,6 @@ website:
           # - text: "{{Page 4 Title}}"
           #   href: finding-04.qmd
 
-      - text: "{{Interactive Dashboard}}"
-        href: dashboard.qmd
       - text: "{{Project Limitations}}"
         href: limitations.qmd
       - text: "{{References & Sources}}"

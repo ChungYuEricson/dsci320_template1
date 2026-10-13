@@ -18,5 +18,3 @@ TODO: Update the dashboard caption accordingly
 TODO: Explain the significance of the dashboard
  
 TODO: Explain the instructions of the dashboard
-
-

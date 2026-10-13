@@ -54,7 +54,7 @@
     "href": "finding-01.html",
     "title": "TODO: Finding Title",
     "section": "",
-    "text": "Figure 1: TODO: Update the figure caption accordingly\nTODO: Explain the significance of the plot\n\n\n\nFigure 2: TODO: Update the figure caption accordingly",
+    "text": "Figure 1: TODO: Update the figure caption accordingly\nTODO: Explain the significance of the plot",
     "crumbs": [
       "Findings",
       "{{Page 1 Title}}"
@@ -68,6 +68,17 @@
     "text": "TODO: Address the limitations and trade-offs that were considered",
     "crumbs": [
       "{{Project Limitations}}"
+    ]
+  },
+  {
+    "objectID": "finding-01.html#dashboard-title",
+    "href": "finding-01.html#dashboard-title",
+    "title": "TODO: Finding Title",
+    "section": "Dashboard title",
+    "text": "Dashboard title\n\n\n\nTODO: Explain the significance of the dashboard\nTODO: Explain the instructions of the dashboard",
+    "crumbs": [
+      "Findings",
+      "{{Page 1 Title}}"
     ]
   }
 ]
